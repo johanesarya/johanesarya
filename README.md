@@ -19,4 +19,20 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=johanesarya&icon=6&color=0)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johanesarya/johanesarya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johanesarya/johanesarya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/johanesarya/johanesarya/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Acrasia">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Acrasia&count=10" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
