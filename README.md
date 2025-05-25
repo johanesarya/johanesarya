@@ -16,8 +16,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=johanesarya&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=johanesarya&icon=6&color=0)](https://visitcount.itsvg.in)
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Acrasia">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21si3ebykjzcdyupvv6amivqi" alt="Spotify recently played"  />
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johanesarya/johanesarya/output/pacman-contribution-graph-dark.svg">
@@ -27,12 +34,5 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Acrasia">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Acrasia&count=10" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
